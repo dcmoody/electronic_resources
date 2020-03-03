@@ -1,0 +1,17 @@
+{
+    "name": "drupal/electronic_resources",
+    "description": "custom drupal resource type",
+    "type": "drupal-module",
+    "homepage": "https://github.com/dcmoody/electronic_resources",
+    "authors": [
+        {
+            "name": "",
+            "homepage": "",
+            "role": "Maintainer"
+    ],
+    "support": {
+        "issues": "https://drupal.org/project/issues/mobile_detect",
+        "irc": "irc://irc.freenode.org/drupal-contribute",
+        "source": "https://github.com/dcmoody/electronic_resource"
+}
+
