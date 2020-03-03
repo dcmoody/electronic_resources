@@ -1,5 +1,5 @@
    {
-   	"name": "drupal/electronic_resources",
+   	"name": "aumcustomcode/electronic_resources",
    	"description": "custom drupal resource type",
    	"type": "drupal-module",
    	"homepage": "https://github.com/dcmoody/electronic_resources",
