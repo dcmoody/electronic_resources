@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Electronic Resources Content Type feature.
+ */
+
+include_once 'electronic_resources_content_type.features.yml';

@@ -1,0 +1,26 @@
+name: Electronic Resources Content Type
+description: sed to export our Drupal configurations related to managing the AUM Library's databases.
+core: 8.x
+package: Content Type
+project:  electronic_resources_content_type
+type: module
+dependencies:
+
+#features[features_api][] = api:1
+#features[field][] = node-electronic_resource-field_database_description
+#features[field][] = node-electronic_resource-field_database_subjects
+#features[field][] = node-electronic_resource-field_er_database_link
+#features[field][] = node-electronic_resource-field_full_database_link
+#features[field][] = node-electronic_resource-field_er_avl_resource
+#features[field][] = node-electronic_resource-field_format_type
+#features[field][] = node-electronic_resource-field_language_content
+#features[field][] = node-electronic-resource_field_new_database
+#features[field][] = node-electronic-resource_field_trial_database
+#features[field][] = node-electronic-resource_field_publisher
+#features[field][] = node-electronic-resource_field_access_information
+#features[field][] = node-electronic-resource_field_coverage_start_date
+#features[field][] = node-electronic-resource_field_coverage_end_date
+#features[node][] = electronic_resource
+#features[taxonomy][] = database_subjects
+#features[taxonomy][] = database_vendors
+#features[taxonomy][] = er_format_type
